@@ -1,6 +1,6 @@
 # TaskManager
 
-A RESTful API for managing tasks, built with Node.js, Express.js, and MongoDB. Created for Albearoti Assessment.
+A RESTful API for managing tasks, built with Node.js, Express.js, and MongoDB.
 
 ## Table of Contents
 
